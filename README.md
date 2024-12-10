@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on freelance projects.
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Flutter, UI/UX Design, Clean Architecture**
 
